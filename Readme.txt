@@ -1,4 +1,4 @@
-Welcome
+Welcome to Hit for Beginers
 
 Author : Harshasri Karthikeya Thumuluri
 tho,os
